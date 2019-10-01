@@ -1,0 +1,32 @@
+.btn-to-win{
+    background-color: #e22450;
+    padding-top:0.5rem;
+    margin-top:2rem;
+    padding-bottom:0.5rem;  
+    padding-left:1rem;
+    padding-right:1rem;
+    text-align: center;
+    
+   
+    border-radius: 0.5rem;
+    border-width: 0px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.navbar {
+    display: flex;
+    color: white;
+    justify-content:left; 
+    align-items: center;
+    overflow: hidden;
+    background-color: black;
+   /*  padding: 5rem;  */
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left:0;
+    z-index: 99;
+    
+    font-size: 1.5rem;
+  }
